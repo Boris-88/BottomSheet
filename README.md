@@ -6,17 +6,6 @@
 [![iOS 13.0+](https://img.shields.io/badge/iOS-13.0+-blue.svg)](https://developer.apple.com/ios/)
 [![MIT License](https://img.shields.io/badge/License-MIT-lightgrey.svg)](LICENSE)
 
-## Features ✨
-
-- 🎭 Smooth spring animations  
-- 👆 Interactive dismissal gestures  
-- 🖱 Scroll view integration  
-- 🎨 Customizable appearance  
-- 📳 Haptic feedback  
-- 🟣 Background effects (blur/dim)  
-- 🎚 Configurable corner radius  
-- 🖐 Grabber handle with touch area  
-
 ## Installation 📦
 
 ### Swift Package Manager
@@ -99,4 +88,14 @@ The public interface for configuring the bottom sheet behavior.
 | `dismissThreshold` | `CGFloat`        | 0.3     | Dismiss completion threshold    |
 | `maxLifting`       | `CGFloat`        | 0.85    | Maximum height percentage       |
 
+## Features ✨
+
+- 🎭 Smooth spring animations  
+- 👆 Interactive dismissal gestures  
+- 🖱 Scroll view integration  
+- 🎨 Customizable appearance  
+- 📳 Haptic feedback  
+- 🟣 Background effects (blur/dim)  
+- 🎚 Configurable corner radius  
+- 🖐 Grabber handle with touch ar
 
